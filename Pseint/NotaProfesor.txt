@@ -1,0 +1,1 @@
+No pude hacer un algoritmo que funcione para los ultimos dos ejercicios en Pseint. Puedo hacer que las matrices se registren, pero no se como hacer para que la muestre en orden como en Visual Studio
