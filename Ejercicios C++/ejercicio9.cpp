@@ -30,8 +30,8 @@ void multmatrices(){
     }
     int matrizb[f][c];
     cout << "Ingrese los elementos de la segunda matriz:" << endl;
-    for (int i = 0; i < n; i++) {
-        for (int j = 0; j < m; j++) {
+    for (int i = 0; i < f; i++) {
+        for (int j = 0; j < c; j++) {
             cin >> matrizb[i][j];
         }
     }
